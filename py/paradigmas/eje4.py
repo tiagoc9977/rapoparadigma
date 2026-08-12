@@ -1,2 +1,3 @@
-numero = 7
-print("El doble es:", numero * 3)
+a = 5
+b = 4
+print(a + b)
